@@ -53,7 +53,7 @@ After October the number of successful campaign drops and it is at the lowest in
 
 2. What can you conclude about the Outcomes based on Goals?
 
-Louise may do better to keep her budget under $4999.  
+Louise may improve her likelihood of success if she keeps her budget under $4999.  
 There is a slightly higher percentage of successful outcomes at her anticipated budget which starts at $10000, but the percentage of failures is very close in that goal interval.
 
 3. What are some limitations of this dataset?
