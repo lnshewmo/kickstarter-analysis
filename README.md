@@ -49,19 +49,23 @@ Above $45000, nearly all campaigns failed with a few exceptions greater than $50
 ## Results
 
 1. What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Launching a kickstarter campaign in May or June may increase the success of achieving the fundraising goal.
 After October the number of successful campaign drops and it is at the lowest in December.
 
 2. What can you conclude about the Outcomes based on Goals?
+
 Louise may do better to keep her budget under $4999.  
 There is a slightly higher percentage of successful outcomes at her anticipated budget which starts at $10000, but the percentage of failures is very close in that goal interval.
 
 3. What are some limitations of this dataset?
+
 This dataset is more than 5 years old.  
 There are not nearly as many data points for plays outcomes with fundraising goals more than $10000.
 The confidence level for making inferences above this funraising goal is lower.
 
 4. What are some other possible tables and/or graphs that we could create?
+
 Percentage of Theather Outcomes Based on Launch Date would help show successes as a function of total outcomes.
 This could also be filtered down from the parent category to only look at plays.
 
