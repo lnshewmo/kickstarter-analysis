@@ -14,12 +14,12 @@ In order to look at theater outcomes by launch date, the launch date was convert
 The Parent and Subcategory data column was split in order to filter on only successful, failed and canceled Theater campaigns. 
 The following chart "Theater Outcomes Based on Launch Date" is showing outcomes for completed campaigns from 2009-2016.
 To create this chart a PivotTable and PivotChart were built, filtering on Parent Category and Years.  
-![Theater Outcomes vs Launch](/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch](/resources/Theater_Outcomes_vs_Launch.png)
 The x-axis represents the launch month and the y-axis represents the number of campaign outcomes. 
 
 To evaluate trends in campaign outcomes based pledge goals, a new table was created which used the COUNTIFS function to count the number of outcomes at a particular fundraising goal interval.
 The following chart "Campaign Outcomes Based on Goals" is showing the percentage of each outcome level at each financial goal interval.
-![Outcomes vs Goals](/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](/resources/Outcomes_vs_Goals.png)
 The x-axis shows each financial goal interval and the y-axis shows the percentage of campaign outcomes.
 
 ### Analysis of Outcomes Based on Launch Date
