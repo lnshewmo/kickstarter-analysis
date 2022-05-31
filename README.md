@@ -22,14 +22,6 @@ The following chart "Campaign Outcomes Based on Goals" is showing the percentage
 ![Outcomes vs Goals](/Outcomes_vs_Goals.png)
 The x-axis shows each financial goal interval and the y-axis shows the percentage of campaign outcomes.
 
-Challenges or difficulties - It is important to be mindful of maintaining the integrity and accuracy of the whole dataset when working in the spreadsheet.
-For example, awareness of filtering and clearing filters is important.  
-If additional columns are added to a filtered dataset and autofilled using the Fill Handle, it will create blanks for the entries which have been filtered out.
-Any error introduced could potentially be compounded upon by building out columns which use functions to look at other columns in the dataset.
-Functions should be carefully inspected to ensure the correct columns or cells are referenced.  
-If these kinds of compounded errors are go unnoticed, the analysis will likely be skewed or invalid.
-It is also a good idea to backup the file at different timepoints to make sure that if an error is uncovered, the analysis can be picked up from a previous timepoint without having to start completely over.
-
 ### Analysis of Outcomes Based on Launch Date
 May to July had the largest number of successful theater launches and also the largest overall number of campaign launches.
 During this timeframe, the number of failed launches remained fairly constant, within 2 outcomes of 50 failures per month.
@@ -45,6 +37,12 @@ There was a large percentage of failures between $25000 and $34999.
 Above $45000, nearly all campaigns failed with a few exceptions greater than $50000.
 
 ### Challenges and Difficulties Encountered
+It is important to be mindful of maintaining the integrity and accuracy of the whole dataset when working in the spreadsheet.
+For example, awareness of filtering and clearing filters is important. If additional columns are added to a filtered dataset and autofilled using the Fill Handle, it will create blanks for the entries which have been filtered out.
+Any error introduced could potentially be compounded upon by building out columns which use functions to look at other columns in the dataset.
+Functions should be carefully inspected to ensure the correct columns or cells are referenced.  
+If these kinds of compounded errors are go unnoticed, the analysis will likely be skewed or invalid.
+It is also a good idea to backup the file at different timepoints to make sure that if an error is uncovered, the analysis can be picked up from a previous timepoint without having to start completely over.
 
 ## Results
 
